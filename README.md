@@ -2,7 +2,7 @@
 
 A Trello-style task board built with React (Vite) and Tailwind CSS. State-driven, no Redux, no direct DOM manipulation.
 
-**Live demo:** https://YOUR-APP.vercel.app
+**Live demo:** https://glowing-starship-5471e6.netlify.app
 
 ## Features
 **Phase 1:** 3 columns (To Do, In Progress, Done), add task, delete task, move task with buttons.
